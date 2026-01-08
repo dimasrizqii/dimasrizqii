@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas</h1>
-<h3 align="center">Mobile Developer | Flutter & Android Enthusiast from Indonesia 🇮🇩</h3>
+<h3 align="center">Mobile Developer | Flutter & Android Enthusiast from Indonesia</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/dimasrizqii">
@@ -60,11 +60,15 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasrizqii&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dimasrizqii&layout=compact&theme=transparent" height="160"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=dimasrizqii&color=brightgreen)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2033%20mins-blue?style=flat)
+
+<a href="https://github.com/dimasrizqii">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasrizqii&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasrizqii&layout=compact&langs_count=8&theme=nord"/>
+</a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasrizqii&theme=transparent"/>
+  <img src="https://streak-stats.demolab.com?user=dimasrizqii&theme=github-dark&hide_border=true"/>
 </p>
