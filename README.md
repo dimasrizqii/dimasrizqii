@@ -62,13 +62,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dimasrizqii&color=brightgreen)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C888%20hrs%2033%20mins-blue?style=flat)
-
 <a href="https://github.com/dimasrizqii">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasrizqii&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasrizqii&layout=compact&langs_count=8&theme=nord"/>
 </a>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dimasrizqii&theme=github-dark&hide_border=true"/>
-</p>
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimasrizqii&theme=github_dark&border_color=ffffff)
+
+
